@@ -1,4 +1,4 @@
 # ValentinDay
 
 Ignora todo
-Solo descarga abre la "version final"
+Solo descarga abre la "VersiónFinal"
